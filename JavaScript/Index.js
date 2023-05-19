@@ -1,6 +1,6 @@
 // Constants
 const clientId = '44384';
-const redirectUri = 'YOUR_REDIRECT_URI';
+const redirectUri = 'https://mylesgem.github.io/Destiny-Basics/';
 const oauthUrl = 'https://www.bungie.net/en/oauth/authorize';
 
 // Function to handle form submission
